@@ -57,6 +57,8 @@ ul>li{
     margin-right: 50px;
     padding-top: 30px;
     padding-bottom: 30pr;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 0,5 cm;
 }
 
 #szoveg a{
@@ -76,3 +78,24 @@ div p{
     /*text-transform: capitalize;*/
 }
 
+h2{
+    text-decoration: underline;
+}
+
+.vastag{
+    font-weight: bold;
+}
+
+h4{
+    font-style: italic;
+    /*font-style: oblique;*/
+}
+
+#parizs{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
